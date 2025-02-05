@@ -1,6 +1,7 @@
 ## Description
 
 Zen Rices API
+
 Based on [Nest](https://github.com/nestjs/nest) framework
 
 ## Project setup (install NVM)
