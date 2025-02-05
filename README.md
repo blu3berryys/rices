@@ -14,20 +14,20 @@ $ npm install
 ## Compile and run the project
 
 ```bash
-# development
+# Development
 $ npm run start
 
-# watch mode
+# Watch mode
 $ npm run start:dev
 
-# production mode
+# Production mode
 $ npm run start:prod
 ```
 
 ## Run tests
 
 ```bash
-# e2e tests
+# E2E tests
 $ npm run test:e2e
 ```
 
