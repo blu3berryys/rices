@@ -41,7 +41,7 @@
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
     "@nestjs/throttler": "^6.3.0",
-    "@supabase/supabase-js": "^2.47.10",
+    "@supabase/supabase-js": "^2.48.1",
     "@types/csso": "^5.0.4",
     "@types/express": "^5.0.0",
     "@types/jest": "^29.5.14",
